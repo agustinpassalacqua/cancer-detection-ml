@@ -1,4 +1,4 @@
-![Detección de cáncer de mama con Machine Learning](portada.jpeg)
+![Detección de cáncer de mama con Machine Learning](portada.JPEG)
 
 ENGLISH BELOW 
 

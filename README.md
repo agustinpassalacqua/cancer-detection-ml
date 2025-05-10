@@ -12,6 +12,7 @@ Modelo de Machine Learning de clasificacion binaria para detectar cáncer de mam
 - Support Vector Machine (SVM)
 - K-Vecinos más Cercanos (KNN)
 - Árbol de Decisión binario
+- Random Forest
 - Naive Bayes
 - Linear Discriminant Analysis (LDA)
 
@@ -42,6 +43,7 @@ This project uses the Breast Cancer Wisconsin Diagnostic dataset to train severa
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - Decision Tree
+- Random Forest
 - Naive Bayes
 - Linear Discriminant Analysis (LDA)
 
